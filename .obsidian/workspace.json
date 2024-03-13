@@ -128,6 +128,18 @@
                 "file": "README.md"
               }
             }
+          },
+          {
+            "id": "0b1ee6e33f31ec83",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
           }
         ]
       }
@@ -148,7 +160,8 @@
   },
   "active": "b3df6f33309164af",
   "lastOpenFiles": [
-    "Welcome.md",
-    "README.md"
+    "未命名.md",
+    "README.md",
+    "Welcome.md"
   ]
 }
