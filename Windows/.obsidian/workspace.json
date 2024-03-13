@@ -1,52 +1,39 @@
 {
   "main": {
-    "id": "d7fc8dbb11856729",
+    "id": "12f8a199c9ab4a4b",
     "type": "split",
     "children": [
       {
-        "id": "d0701320a767c3a7",
+        "id": "b6a387f121dea205",
         "type": "tabs",
         "children": [
           {
-            "id": "a09dd0b71ff371b1",
+            "id": "f8008db631f6ab52",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Windows/README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "237f115581ea0865",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Windows/SysinternalsSuite 系统工具集.md",
+                "file": "Welcome.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "ea3db605e3b5d4ce",
+    "id": "61dc82697785f274",
     "type": "split",
     "children": [
       {
-        "id": "81ab052396ee3645",
+        "id": "0ced861a72d7cb6a",
         "type": "tabs",
         "children": [
           {
-            "id": "a175f0bfd725711b",
+            "id": "a467fc6b0dd079a4",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -56,12 +43,12 @@
             }
           },
           {
-            "id": "0b05dbf352be5807",
+            "id": "53291b91c72277c1",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"tags\"]",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -71,7 +58,7 @@
             }
           },
           {
-            "id": "427b447f1b90ae90",
+            "id": "01cabd8ff0df699f",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -85,44 +72,44 @@
     "width": 300
   },
   "right": {
-    "id": "4a76ba793d675042",
+    "id": "43760209ddfc3008",
     "type": "split",
     "children": [
       {
-        "id": "a776ed36f57f46ba",
+        "id": "4abc81ae533adb38",
         "type": "tabs",
         "children": [
           {
-            "id": "b1c1039e6bdffc74",
+            "id": "05e6e815a1dd6048",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Windows/SysinternalsSuite 系统工具集.md",
+                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "2157ecaa8178ddb5",
+            "id": "2d19d9ac05594365",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Windows/SysinternalsSuite 系统工具集.md",
+                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "036ca72e448ae3c9",
+            "id": "c4eb8af95d318994",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,17 +120,17 @@
             }
           },
           {
-            "id": "13e1870cc9252389",
+            "id": "782df9f4b728bba3",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Windows/SysinternalsSuite 系统工具集.md"
+                "file": "Welcome.md"
               }
             }
           },
           {
-            "id": "0b1ee6e33f31ec83",
+            "id": "112b323925c04dd7",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -154,8 +141,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -172,29 +158,8 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "237f115581ea0865",
+  "active": "f8008db631f6ab52",
   "lastOpenFiles": [
-    "Windows/README.md",
-    "README.md",
-    "Windows/SysinternalsSuite 系统工具集.md",
-    "Windows",
-    "Test/Welcome.md",
-    "Test",
-    "未命名 3.md",
-    "cc/Welcome.md",
-    "cc",
-    "Default/plugins/settings-profiles/styles.css",
-    "Default/plugins/settings-profiles/manifest.json",
-    "Default/plugins/settings-profiles/main.js",
-    "Default/plugins/obsidian-git/styles.css",
-    "Default/plugins/obsidian-git/manifest.json",
-    "Default/plugins/obsidian-git/main.js",
-    "Default/plugins/obsidian-git/data.json",
-    "Linux学习/Welcome.md",
-    "Linux/Welcome.md",
-    "未命名 1.md",
-    "未命名/未命名 1/未命名 2.md",
-    "未命名/未命名 1/未命名.md",
     "Welcome.md"
   ]
 }

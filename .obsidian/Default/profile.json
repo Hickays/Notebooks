@@ -1,0 +1,13 @@
+{
+  "name": "Default",
+  "autoSync": true,
+  "appearance": true,
+  "app": true,
+  "bookmarks": true,
+  "communityPlugins": true,
+  "communityPluginsAdvanced": {},
+  "corePlugins": true,
+  "graph": true,
+  "hotkeys": true,
+  "modifiedAt": "2024-03-13T06:18:13.512Z"
+}
