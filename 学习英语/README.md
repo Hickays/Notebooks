@@ -28,6 +28,7 @@
 **单词量测试工具**
 - http://testyourvocab.com/
 - 其次欧路词典手机版中也有测试程序，测试方式很合理，可以尝试。
+	- 欧陆词典词库 http://www.mrfan.org/dictshttp://testyourvocab.com/
 
 **写作辅助工具**
 - Grammarly(https://www.grammarly.com/) 会自动检测网页文本框里的内容是否有语法问题。
