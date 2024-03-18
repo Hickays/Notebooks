@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "file": "README.md"
               }
             }
           },
@@ -158,8 +159,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f8008db631f6ab52",
+  "active": "01cabd8ff0df699f",
   "lastOpenFiles": [
+    "SysinternalsSuite 系统工具集.md",
+    "README.md",
     "Welcome.md"
   ]
 }

@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Windows/SysinternalsSuite 系统工具集.md",
-                "mode": "source",
+                "file": "学习英语/README.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Windows/SysinternalsSuite 系统工具集.md",
+                "file": "学习英语/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4a76ba793d675042",
@@ -118,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Windows/SysinternalsSuite 系统工具集.md",
+                "file": "学习英语/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Windows/SysinternalsSuite 系统工具集.md",
+                "file": "学习英语/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Windows/SysinternalsSuite 系统工具集.md"
+                "file": "学习英语/README.md"
               }
             }
           },
@@ -194,9 +195,17 @@
   },
   "active": "a09dd0b71ff371b1",
   "lastOpenFiles": [
-    "Windows/README.md",
     "Windows/SysinternalsSuite 系统工具集.md",
+    "学习英语/README.md",
+    "Pasted image 20240318164521.png",
+    "Pasted image 20240318164523.png",
+    "asd.md",
     "README.md",
+    "未命名.md",
+    "学习英语",
+    "Windows/README.md",
+    "npm-release-shield.md",
+    "d.md",
     "Windows",
     "Test/Welcome.md",
     "Test",
@@ -209,7 +218,6 @@
     "Default/plugins/obsidian-git/styles.css",
     "Default/plugins/obsidian-git/manifest.json",
     "Default/plugins/obsidian-git/main.js",
-    "Default/plugins/obsidian-git/data.json",
     "Linux学习/Welcome.md",
     "Linux/Welcome.md",
     "未命名 1.md",
