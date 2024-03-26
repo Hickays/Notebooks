@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "学习英语/README.md",
+                "file": "中国驾照/记录.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,38 +21,29 @@
             }
           },
           {
-            "id": "237f115581ea0865",
+            "id": "30672c2cb8c2f675",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "Windows/SysinternalsSuite 系统工具集.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.5.11"
               }
             }
           },
           {
-            "id": "0e919e8ded8f5c67",
+            "id": "5772e55508a1f83c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "学习英语/README.md",
+                "file": "中国驾照/记录.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "41c210cc2b0bf9fd",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -102,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4a76ba793d675042",
@@ -119,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "学习英语/README.md",
+                "file": "中国驾照/记录.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "学习英语/README.md",
+                "file": "中国驾照/记录.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "学习英语/README.md"
+                "file": "中国驾照/记录.md"
               }
             }
           },
@@ -193,17 +183,21 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "a09dd0b71ff371b1",
+  "active": "5772e55508a1f83c",
   "lastOpenFiles": [
-    "Windows/SysinternalsSuite 系统工具集.md",
+    "README.md",
+    "Windows/README.md",
+    "前端/AntD 中 Form + Model 传递数据的方式.md",
     "学习英语/README.md",
+    "中国驾照/记录.md",
+    "Windows/SysinternalsSuite 系统工具集.md",
+    "未命名.md",
+    "中国驾照",
+    "前端",
     "Pasted image 20240318164521.png",
     "Pasted image 20240318164523.png",
     "asd.md",
-    "README.md",
-    "未命名.md",
     "学习英语",
-    "Windows/README.md",
     "npm-release-shield.md",
     "d.md",
     "Windows",
@@ -216,8 +210,6 @@
     "Default/plugins/settings-profiles/manifest.json",
     "Default/plugins/settings-profiles/main.js",
     "Default/plugins/obsidian-git/styles.css",
-    "Default/plugins/obsidian-git/manifest.json",
-    "Default/plugins/obsidian-git/main.js",
     "Linux学习/Welcome.md",
     "Linux/Welcome.md",
     "未命名 1.md",
