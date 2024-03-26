@@ -1,5 +1,9 @@
 {
   "newLinkFormat": "shortest",
   "alwaysUpdateLinks": true,
-  "useMarkdownLinks": true
+  "useMarkdownLinks": true,
+  "autoPairBrackets": true,
+  "smartIndentList": true,
+  "showLineNumber": true,
+  "rightToLeft": false
 }
