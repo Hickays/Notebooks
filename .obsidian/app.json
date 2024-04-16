@@ -5,5 +5,9 @@
   "autoPairBrackets": true,
   "smartIndentList": true,
   "showLineNumber": true,
-  "rightToLeft": false
+  "rightToLeft": false,
+  "attachmentFolderPath": "./_resource",
+  "readableLineLength": false,
+  "strictLineBreaks": true,
+  "showInlineTitle": false
 }
