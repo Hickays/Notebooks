@@ -22,6 +22,8 @@
 | 10000     | 90% | tackle, peak, crude, purely, dude, modest  |
 | 50'000    | 95% | saboteur, autocracy, calyx, conformist     |
 | 1'000'000 | 99% | laggardly, endobenthic, pomological        |
+**文章**
+- https://byoungd.github.io/English-level-up-tips/
 
 **工具**
 
